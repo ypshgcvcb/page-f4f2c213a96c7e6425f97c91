@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c944cfe7399fb58cf3fd6c76",
+  "owner": "ypshgcvcb",
+  "repo": "page-f4f2c213a96c7e6425f97c91",
+  "title": "小樱的花园",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f4f2c213a96c7e6425f97c91",
+      "a": "小樱的花园",
+      "b": "2027最新官网",
+      "entity": "小樱的花园",
+      "brand": "小樱的花园",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ece248a843e1dfe4f1b8ff3fd76140a94ff009b19d42951bd739c7c0eb42cdca",
+      "content": {
+        "primary_entity": "小樱的花园",
+        "keyword1": "小樱的花园",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备接入、订阅配置和套餐对比展开。基础版提供每月100GB流量和3台设备在线，旗舰版提升到每月300GB流量、5台设备在线并加入IPLC专线游戏加速优化，团队版则为每月1000GB流量和20台设备在线，支持企业定制路由。按年付可分别以150元、350元、850元获得全年服务，适合个人、家庭和小型团队根据用量与设备数挑选。",
+          "AI_HERO_SUBTITLE": "小樱的花园多设备加速订阅",
+          "AI_HERO_INTRO": "小樱的花园是一款面向多设备用户的海外网络加速服务，提供基础版、旗舰版和团队版三档订阅。你可以在手机、电脑、平板或路由器上导入订阅，按设备数量与月流量需求选择适合的套餐，并依据对应客户端文档完成配置。",
+          "AI_VISUAL_TITLE": "小樱的花园加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案低至每月约12.5元",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "从用量、设备数量与订阅周期三个角度选择小樱的花园方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度浏览，旗舰版每月300GB兼顾流媒体，团队版每月1000GB满足多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配版本",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备在线，旗舰版支持5台，团队版支持20台，可按手机、电脑与平板数量挑选。",
+          "AI_FEATURE_TITLE_3": "年付更省订阅成本",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，相比月付可节省全年开支。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "小樱的花园三档套餐在流量、设备数和节点权益上逐级提升，可按使用规模直接对比。基础版适合单人或轻度使用，旗舰版增加全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点和企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入小樱的花园订阅链接即可使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按选择服务、确认适配、导入订阅的顺序完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，在小樱的花园基础版、旗舰版与团队版中确定一档套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用手机、电脑或路由器系统对应的客户端，并核对套餐允许的同时在线设备数量。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入小樱的花园订阅地址，按照对应客户端文档完成节点加载与连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对小樱的花园套餐",
+          "AI_CLOSING_TEXT": "按设备数量与月流量挑选版本，年付可进一步节省开支，随后在客户端中导入订阅开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。按常用设备数量选择即可，同时在线设备总计别超过套餐上限。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，多设备流媒体选旗舰版，团队共享选团队版。",
+          "AI_FAQ_ANSWER_3": "按年付可享明显优惠：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按年一次性结算每月费用。",
+          "AI_FAQ_ANSWER_4": "先在对应客户端中导入订阅链接，再按客户端文档完成节点选择与连接。不同系统操作步骤略有差异，以文档说明为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版面向多设备与游戏加速场景，提供 IPLC 专线优化和 7x24 优先工单支持；基础版为普通线路节点池，团队版另有 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_1": "套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅应该怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版在加速场景上有何区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wxchi.cn",
+    "host": "wxchi.cn"
+  },
+  "file_hashes": {
+    "index.html": "0e34028990c2b5de14b651de47733be2f59b07f43bacf2bdf83e711d20d1d6d2",
+    "sitemap.xml": "72cb3fa1337d0fdeb32bdd986fe8ae579cb2369f93d8c4f99d5e638e2576f48a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fbb1816de86c0a580a82485dabfe6ac2de779979f7d4d08e3df255f514024708",
+    "robots.txt": "47fcae7d618336a52374be83b55d71be8dd5f01c65338c9020f7fd54508c7483",
+    "5b8efc5e3bb2681be92195240be2b18d.txt": "359665fa60285682b9de0703b3ad8851c72a99f500c5652ba7e34a62680a0cd1"
+  },
+  "revision": "efa3b3bc4d2bc69c9a0994474941570fa5bafe3927cfeb7f3c68b78c13c1ec0d"
+}
